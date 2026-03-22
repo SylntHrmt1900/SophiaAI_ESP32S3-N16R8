@@ -86,6 +86,8 @@ See [Bill of Materials](BOM.md) for full component list with prices and Indian s
 | Volume Up | GPIO 40 → GND | Short press = increase volume |
 | Wake/Interrupt | GPIO 0 → GND | Press to wake or interrupt conversation |
 
+![Wiring Diagram](Schematics/wiring-diagram.svg)
+
 ---
 
 ## 💾 Firmware
