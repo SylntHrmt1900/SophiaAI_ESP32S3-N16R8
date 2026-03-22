@@ -181,8 +181,8 @@ OLED shows emoji expression
 
 ## 👤 Author
 
-**Pranav** — ECE Student, Bangalore  
-Building AI wearables one breadboard at a time.
+**Pranav Adhithya** — ECE Student, Bangalore  
+Building fun electronics one breadboard at a time.
 
 ---
 
