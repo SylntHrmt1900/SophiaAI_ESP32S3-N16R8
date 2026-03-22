@@ -96,7 +96,7 @@ Uses the **Keyestudio XiaoZhi AI** pre-built firmware (`merged-binary0_96.bin`).
 
 ### Flash Instructions (ESPWebTool — No software needed)
 
-1. Download `merged-binary0_96.bin`
+1. Download `merged-binary0_96.bin` from the `Firmware` directory
 2. Open [ESPWebTool](https://esp.huhn.me/) in Chrome/Edge browser
 3. Connect ESP32-S3 via USB
 4. Click **Connect** → select your COM port
