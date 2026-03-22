@@ -185,9 +185,9 @@ OLED shows emoji expression
 
 ## 👤 Author
 
-**Pranav Adhithya** — ECE Student, Bangalore  
+**Pranav Adhithya** — ECE Student, Bangalore [LinkedIn](https://www.linkedin.com/in/pranav-adhithya-r) 
 Building fun electronics one breadboard at a time.
-[LinkedIn](https://www.linkedin.com/in/pranav-adhithya-r)
+
 
 ---
 
