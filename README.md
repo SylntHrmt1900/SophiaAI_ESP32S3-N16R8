@@ -88,6 +88,8 @@ See [Bill of Materials](BOM.md) for full component list with prices and Indian s
 
 ![Wiring Diagram](Schematics/wiring-diagram.svg)
 
+![PinLayout](Schematics/ESP32S3-N16R8_Pinlayout.jpg)
+
 ---
 
 ## 💾 Firmware
