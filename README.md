@@ -34,6 +34,8 @@ This project is built entirely from off-the-shelf components with no custom PCB,
 | Display | SSD1306 0.96" OLED (I2C, 128x64) |
 | Power | USB 5V via laptop or power bank |
 
+See [Bill of Materials](BOM.md) for full component list with prices and Indian suppliers.
+
 ---
 
 ## 🔌 Wiring
